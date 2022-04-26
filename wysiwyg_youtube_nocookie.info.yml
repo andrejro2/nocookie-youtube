@@ -1,0 +1,5 @@
+name: Wysiwyg Youtube nocookie
+description: Swaps out the youtube iframe urls to use the nocookie domain.
+package: Media
+core_version_requirement: ^8 || ^9
+type: module
