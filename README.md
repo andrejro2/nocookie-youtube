@@ -1,4 +1,4 @@
-# nocookie-youtube
+# youtube_nocookie
 This module converts youtube domain in iframe to youtube-nocookie domain
 
 -- CONFIGURATION --
