@@ -1,5 +1,6 @@
 # nocookie-youtube
-this module converts youtube domain in iframe to youtube-nocookie domain
+This module converts youtube domain in iframe to youtube-nocookie domain
+
 -- CONFIGURATION --
 
 * Go to your input formats (/admin/config/content/formats)
